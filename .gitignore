@@ -1,0 +1,8 @@
+tmp/
+data/
+logs/
+plots/
+.polyscope.ini
+imgui.ini
+.vscode
+__pycache__/
